@@ -1,0 +1,8 @@
+confirm-quit	confirm_quit.txt	/*confirm-quit*
+confirm-quit-functions	confirm_quit.txt	/*confirm-quit-functions*
+confirm-quit-mappings	confirm_quit.txt	/*confirm-quit-mappings*
+confirm-quit-options	confirm_quit.txt	/*confirm-quit-options*
+confirm_quit#command()	confirm_quit.txt	/*confirm_quit#command()*
+confirm_quit#confirm()	confirm_quit.txt	/*confirm_quit#confirm()*
+confirm_quit#prevent()	confirm_quit.txt	/*confirm_quit#prevent()*
+g:confirm_quit_nomap	confirm_quit.txt	/*g:confirm_quit_nomap*
